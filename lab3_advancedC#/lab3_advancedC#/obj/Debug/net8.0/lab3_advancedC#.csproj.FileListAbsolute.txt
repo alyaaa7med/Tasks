@@ -1,0 +1,14 @@
+D:\ITI 3 months\c#_advanced\lab3_advancedC#\lab3_advancedC#\obj\Debug\net8.0\lab3_advancedC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI 3 months\c#_advanced\lab3_advancedC#\lab3_advancedC#\obj\Debug\net8.0\lab3_advancedC#.AssemblyInfoInputs.cache
+D:\ITI 3 months\c#_advanced\lab3_advancedC#\lab3_advancedC#\obj\Debug\net8.0\lab3_advancedC#.AssemblyInfo.cs
+D:\ITI 3 months\c#_advanced\lab3_advancedC#\lab3_advancedC#\obj\Debug\net8.0\lab3_advancedC#.csproj.CoreCompileInputs.cache
+D:\ITI 3 months\c#_advanced\lab3_advancedC#\lab3_advancedC#\bin\Debug\net8.0\lab3_advancedC#.exe
+D:\ITI 3 months\c#_advanced\lab3_advancedC#\lab3_advancedC#\bin\Debug\net8.0\lab3_advancedC#.deps.json
+D:\ITI 3 months\c#_advanced\lab3_advancedC#\lab3_advancedC#\bin\Debug\net8.0\lab3_advancedC#.runtimeconfig.json
+D:\ITI 3 months\c#_advanced\lab3_advancedC#\lab3_advancedC#\bin\Debug\net8.0\lab3_advancedC#.dll
+D:\ITI 3 months\c#_advanced\lab3_advancedC#\lab3_advancedC#\bin\Debug\net8.0\lab3_advancedC#.pdb
+D:\ITI 3 months\c#_advanced\lab3_advancedC#\lab3_advancedC#\obj\Debug\net8.0\lab3_advancedC#.dll
+D:\ITI 3 months\c#_advanced\lab3_advancedC#\lab3_advancedC#\obj\Debug\net8.0\refint\lab3_advancedC#.dll
+D:\ITI 3 months\c#_advanced\lab3_advancedC#\lab3_advancedC#\obj\Debug\net8.0\lab3_advancedC#.pdb
+D:\ITI 3 months\c#_advanced\lab3_advancedC#\lab3_advancedC#\obj\Debug\net8.0\lab3_advancedC#.genruntimeconfig.cache
+D:\ITI 3 months\c#_advanced\lab3_advancedC#\lab3_advancedC#\obj\Debug\net8.0\ref\lab3_advancedC#.dll

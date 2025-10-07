@@ -1,0 +1,14 @@
+D:\ITI 3 months\c#_advanced\lab5_advanced_C#\lab5_advanced_C#\bin\Debug\net8.0\lab5_advanced_C#.exe
+D:\ITI 3 months\c#_advanced\lab5_advanced_C#\lab5_advanced_C#\bin\Debug\net8.0\lab5_advanced_C#.deps.json
+D:\ITI 3 months\c#_advanced\lab5_advanced_C#\lab5_advanced_C#\bin\Debug\net8.0\lab5_advanced_C#.runtimeconfig.json
+D:\ITI 3 months\c#_advanced\lab5_advanced_C#\lab5_advanced_C#\bin\Debug\net8.0\lab5_advanced_C#.dll
+D:\ITI 3 months\c#_advanced\lab5_advanced_C#\lab5_advanced_C#\bin\Debug\net8.0\lab5_advanced_C#.pdb
+D:\ITI 3 months\c#_advanced\lab5_advanced_C#\lab5_advanced_C#\obj\Debug\net8.0\lab5_advanced_C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI 3 months\c#_advanced\lab5_advanced_C#\lab5_advanced_C#\obj\Debug\net8.0\lab5_advanced_C#.AssemblyInfoInputs.cache
+D:\ITI 3 months\c#_advanced\lab5_advanced_C#\lab5_advanced_C#\obj\Debug\net8.0\lab5_advanced_C#.AssemblyInfo.cs
+D:\ITI 3 months\c#_advanced\lab5_advanced_C#\lab5_advanced_C#\obj\Debug\net8.0\lab5_advanced_C#.csproj.CoreCompileInputs.cache
+D:\ITI 3 months\c#_advanced\lab5_advanced_C#\lab5_advanced_C#\obj\Debug\net8.0\lab5_advanced_C#.dll
+D:\ITI 3 months\c#_advanced\lab5_advanced_C#\lab5_advanced_C#\obj\Debug\net8.0\refint\lab5_advanced_C#.dll
+D:\ITI 3 months\c#_advanced\lab5_advanced_C#\lab5_advanced_C#\obj\Debug\net8.0\lab5_advanced_C#.pdb
+D:\ITI 3 months\c#_advanced\lab5_advanced_C#\lab5_advanced_C#\obj\Debug\net8.0\lab5_advanced_C#.genruntimeconfig.cache
+D:\ITI 3 months\c#_advanced\lab5_advanced_C#\lab5_advanced_C#\obj\Debug\net8.0\ref\lab5_advanced_C#.dll

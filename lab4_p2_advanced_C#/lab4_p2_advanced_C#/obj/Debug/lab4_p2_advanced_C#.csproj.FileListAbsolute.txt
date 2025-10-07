@@ -1,0 +1,13 @@
+D:\ITI 3 months\c#_advanced\lab4_p2_advanced_C#\lab4_p2_advanced_C#\bin\Debug\lab4_p2_advanced_C#.exe.config
+D:\ITI 3 months\c#_advanced\lab4_p2_advanced_C#\lab4_p2_advanced_C#\bin\Debug\lab4_p2_advanced_C#.exe
+D:\ITI 3 months\c#_advanced\lab4_p2_advanced_C#\lab4_p2_advanced_C#\bin\Debug\lab4_p2_advanced_C#.pdb
+D:\ITI 3 months\c#_advanced\lab4_p2_advanced_C#\lab4_p2_advanced_C#\obj\Debug\lab4_p2_advanced_C#.csproj.AssemblyReference.cache
+D:\ITI 3 months\c#_advanced\lab4_p2_advanced_C#\lab4_p2_advanced_C#\obj\Debug\lab4_p2_advanced_C_.Form1.resources
+D:\ITI 3 months\c#_advanced\lab4_p2_advanced_C#\lab4_p2_advanced_C#\obj\Debug\lab4_p2_advanced_C_.Properties.Resources.resources
+D:\ITI 3 months\c#_advanced\lab4_p2_advanced_C#\lab4_p2_advanced_C#\obj\Debug\lab4_p2_advanced_C#.csproj.GenerateResource.cache
+D:\ITI 3 months\c#_advanced\lab4_p2_advanced_C#\lab4_p2_advanced_C#\obj\Debug\lab4_p2_advanced_C#.csproj.CoreCompileInputs.cache
+D:\ITI 3 months\c#_advanced\lab4_p2_advanced_C#\lab4_p2_advanced_C#\obj\Debug\lab4_p2_advanced_C#.exe
+D:\ITI 3 months\c#_advanced\lab4_p2_advanced_C#\lab4_p2_advanced_C#\obj\Debug\lab4_p2_advanced_C#.pdb
+D:\ITI 3 months\c#_advanced\lab4_p2_advanced_C#\lab4_p2_advanced_C#\obj\Debug\lab4_p2_advanced_C#.exe.config
+D:\ITI 3 months\c#_advanced\lab4_p2_advanced_C#\lab4_p2_advanced_C#\obj\Debug\lab4_p2_advanced_C_.Form2.resources
+D:\ITI 3 months\c#_advanced\lab4_p2_advanced_C#\lab4_p2_advanced_C#\obj\Debug\lab4_p2_advanced_C_.Form3.resources

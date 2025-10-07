@@ -1,0 +1,14 @@
+D:\ITI 3 months\linq\lab_linq\lab_linq\bin\Debug\net8.0\lab_linq.exe
+D:\ITI 3 months\linq\lab_linq\lab_linq\bin\Debug\net8.0\lab_linq.deps.json
+D:\ITI 3 months\linq\lab_linq\lab_linq\bin\Debug\net8.0\lab_linq.runtimeconfig.json
+D:\ITI 3 months\linq\lab_linq\lab_linq\bin\Debug\net8.0\lab_linq.dll
+D:\ITI 3 months\linq\lab_linq\lab_linq\bin\Debug\net8.0\lab_linq.pdb
+D:\ITI 3 months\linq\lab_linq\lab_linq\obj\Debug\net8.0\lab_linq.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI 3 months\linq\lab_linq\lab_linq\obj\Debug\net8.0\lab_linq.AssemblyInfoInputs.cache
+D:\ITI 3 months\linq\lab_linq\lab_linq\obj\Debug\net8.0\lab_linq.AssemblyInfo.cs
+D:\ITI 3 months\linq\lab_linq\lab_linq\obj\Debug\net8.0\lab_linq.csproj.CoreCompileInputs.cache
+D:\ITI 3 months\linq\lab_linq\lab_linq\obj\Debug\net8.0\lab_linq.dll
+D:\ITI 3 months\linq\lab_linq\lab_linq\obj\Debug\net8.0\refint\lab_linq.dll
+D:\ITI 3 months\linq\lab_linq\lab_linq\obj\Debug\net8.0\lab_linq.pdb
+D:\ITI 3 months\linq\lab_linq\lab_linq\obj\Debug\net8.0\lab_linq.genruntimeconfig.cache
+D:\ITI 3 months\linq\lab_linq\lab_linq\obj\Debug\net8.0\ref\lab_linq.dll
