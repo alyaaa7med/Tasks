@@ -1,0 +1,14 @@
+D:\ITI 3 months\ado.net\ado_lab1\ado_lab2\ado_lab2\ado_lab2\bin\Debug\net8.0\ado_lab2.exe
+D:\ITI 3 months\ado.net\ado_lab1\ado_lab2\ado_lab2\ado_lab2\bin\Debug\net8.0\ado_lab2.deps.json
+D:\ITI 3 months\ado.net\ado_lab1\ado_lab2\ado_lab2\ado_lab2\bin\Debug\net8.0\ado_lab2.runtimeconfig.json
+D:\ITI 3 months\ado.net\ado_lab1\ado_lab2\ado_lab2\ado_lab2\bin\Debug\net8.0\ado_lab2.dll
+D:\ITI 3 months\ado.net\ado_lab1\ado_lab2\ado_lab2\ado_lab2\bin\Debug\net8.0\ado_lab2.pdb
+D:\ITI 3 months\ado.net\ado_lab1\ado_lab2\ado_lab2\ado_lab2\obj\Debug\net8.0\ado_lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI 3 months\ado.net\ado_lab1\ado_lab2\ado_lab2\ado_lab2\obj\Debug\net8.0\ado_lab2.AssemblyInfoInputs.cache
+D:\ITI 3 months\ado.net\ado_lab1\ado_lab2\ado_lab2\ado_lab2\obj\Debug\net8.0\ado_lab2.AssemblyInfo.cs
+D:\ITI 3 months\ado.net\ado_lab1\ado_lab2\ado_lab2\ado_lab2\obj\Debug\net8.0\ado_lab2.csproj.CoreCompileInputs.cache
+D:\ITI 3 months\ado.net\ado_lab1\ado_lab2\ado_lab2\ado_lab2\obj\Debug\net8.0\ado_lab2.dll
+D:\ITI 3 months\ado.net\ado_lab1\ado_lab2\ado_lab2\ado_lab2\obj\Debug\net8.0\refint\ado_lab2.dll
+D:\ITI 3 months\ado.net\ado_lab1\ado_lab2\ado_lab2\ado_lab2\obj\Debug\net8.0\ado_lab2.pdb
+D:\ITI 3 months\ado.net\ado_lab1\ado_lab2\ado_lab2\ado_lab2\obj\Debug\net8.0\ado_lab2.genruntimeconfig.cache
+D:\ITI 3 months\ado.net\ado_lab1\ado_lab2\ado_lab2\ado_lab2\obj\Debug\net8.0\ref\ado_lab2.dll
